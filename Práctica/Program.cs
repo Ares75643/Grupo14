@@ -8,7 +8,7 @@ namespace Práctica
         {
             Console.WriteLine("Hello World!");
 
-            //holaosdkoadj
+            //gioaujdsaghkajgc
         }
     }
 }

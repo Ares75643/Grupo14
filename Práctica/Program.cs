@@ -8,7 +8,7 @@ namespace Práctica
         {
             Console.WriteLine("Hello World!");
 
-            //Modificación para el error tipo 1
+            //Correcto
         }
     }
 }
